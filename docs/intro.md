@@ -20,6 +20,8 @@ AS205794 Labs is a collection of open-source projects, experiments, and API serv
 **[AS205794 Looking Glass](/Labs/LookingGlass)**：Looking Glass
 
 **[CNAME Flattening](/Labs/CNAMEFlattening)**：用于拉平根域（或其他子域名）解析的CNAME记录。/ CNAME record used for flattening apex domain (or other subdomain) resolution. 
+
+**[DDNSIP](/Labs/DDNSIP)**：DDNSIP是一个基于 Nginx 获取客户端公网 IP 的服务。/ DDNSIP is a service based on Nginx to get the client's public IP.
 ## How to participate
 欢迎任何人参与到 AS205794 Labs 的维护中来，你可以通过以下方式参与到 AS205794 Labs 的维护中来：
 
