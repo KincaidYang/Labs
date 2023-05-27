@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.jpg',
+  favicon: 'img/AS205794Labs.png',
   scripts: [
     'https://cdn-go.cn/aegis/aegis-sdk/latest/aegis.min.js',
     'https://resources.r2wind.cn/js/smbwiki.js',
