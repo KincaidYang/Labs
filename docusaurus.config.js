@@ -15,7 +15,6 @@ const config = {
   favicon: 'img/AS205794Labs.png',
   scripts: [
     'https://cdn-go.cn/aegis/aegis-sdk/latest/aegis.min.js',
-    'https://resources.r2wind.com/js/labs.js',
   ],
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
