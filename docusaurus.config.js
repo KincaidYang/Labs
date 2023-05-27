@@ -56,6 +56,10 @@ const config = {
     ({
       navbar: {
         title: 'AS205794 Labs',
+        logo: {
+          alt: 'Site Logo',
+          src: 'img/AS205794Labs.png',
+        },
         items: [
           /** {
             type: 'doc',
