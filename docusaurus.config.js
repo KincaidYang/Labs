@@ -110,11 +110,12 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} AS205794 Labs. Secure & deliver service provided by <a target="_blank" rel="noopener" href="https://www.cloudflare.com/"><span>Cloudflare</span></a>`,
+        copyright: `Copyright © ${new Date().getFullYear()} AS205794 Labs.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ['json', 'bash'],
       },
     }),
 };

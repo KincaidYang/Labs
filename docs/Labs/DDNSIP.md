@@ -6,6 +6,14 @@ description: DDNSIP
 DDNSIP是一个基于 Nginx 获取客户端公网 IP 的服务。/ DDNSIP is a service based on Nginx to get the client's public IP.
 
 ## How to use
+:::tip
+
+如果您需要获取 `json` 格式的数据，请在 `url` 后面添加`/json`, 例如 `https://ddnsip.cn/json`。
+
+If you need to get the data in `json` format, please add `/json` after the `url`, for example `https://ddnsip.cn/json`.
+
+:::
+
 ### Get IPv4:
 ```bash
 curl https://ipv4.ddnsip.cn

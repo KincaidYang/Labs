@@ -22,6 +22,10 @@ AS205794 Labs is a collection of open-source projects, experiments, and API serv
 **[CNAME Flattening](/Labs/CNAMEFlattening)**：用于拉平根域（或其他子域名）解析的CNAME记录。/ CNAME record used for flattening apex domain (or other subdomain) resolution. 
 
 **[DDNSIP](/Labs/DDNSIP)**：DDNSIP是一个基于 Nginx 获取客户端公网 IP 的服务。/ DDNSIP is a service based on Nginx to get the client's public IP.
+
+
+**[WHOIS](/Labs/WHOIS)**：域名 Whois 查询工具，支持所有允许公开查询的 TLD 后缀的域名、IPv4/v6、ASN 的 Whois 信息查询。/ Domain Whois query tool, supports domain, IPv4/v6, ASN Whois information query for all TLD suffixes that allow public queries.
+
 ## How to participate
 欢迎任何人参与到 AS205794 Labs 的维护中来，你可以通过以下方式参与到 AS205794 Labs 的维护中来：
 
